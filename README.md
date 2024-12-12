@@ -44,6 +44,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srokeven/)](https://www.linkedin.com/in/srokeven/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srokeven@gmail.com)](mailto:srokeven@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-SroKeven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srokeven/)](https://www.linkedin.com/in/srokeven/)
+[![Gmail Badge](https://img.shields.io/badge/-srokeven@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srokeven@gmail.com)](mailto:srokeven@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/srokeven?label=follow&style=social)](https://github.com/srokeven)
