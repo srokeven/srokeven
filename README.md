@@ -4,7 +4,7 @@
 
 - 🤔 Tentando extrair o máximo possível do que a tecnologia pode oferecer.
 - 🎓 Estudando de forma autodidata.
-- 💼 Trabalhando como Delphi na Up2 Soluções.
+- 💼 Trabalhando como Delphi na Wstech/Up2 Soluções.
 - 🌱 Aprendendo mais sobre Desenvolvimento Web.
 
 ## Minhas Skills
