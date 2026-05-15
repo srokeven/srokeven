@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/srokeven" title="Perfil do Keven">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srokeven&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://avatars.githubusercontent.com/u/19169018?v=4&size=64" />
 </a>
 
 ## Onde me encontrar
