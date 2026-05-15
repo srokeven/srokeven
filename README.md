@@ -38,7 +38,7 @@
 <br/>
 
 <a href="https://github.com/srokeven" title="Perfil do Keven">
-  <img height="180em" src="https://avatars.githubusercontent.com/u/19169018?v=4&size=64" />
+  <img height="180em" src="https://raw.githubusercontent.com/srokeven/srokeven/refs/heads/main/github.png" />
 </a>
 
 ## Onde me encontrar
